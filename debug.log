@@ -1,0 +1,27 @@
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Writing database to /Users/wangxichun/Documents/work/git/hexo/db.json","time":"2019-08-24T14:39:29.476Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Hexo version: \u001b[35m3.9.0\u001b[39m","time":"2019-08-24T14:39:29.487Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Working directory: \u001b[35m~/Documents/work/git/hexo/\u001b[39m","time":"2019-08-24T14:39:29.488Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Config loaded: \u001b[35m~/Documents/work/git/hexo/_config.yml\u001b[39m","time":"2019-08-24T14:39:29.545Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2019-08-24T14:39:29.557Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2019-08-24T14:39:29.558Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2019-08-24T14:39:29.559Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2019-08-24T14:39:29.561Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2019-08-24T14:39:29.592Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2019-08-24T14:39:29.593Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-symbols-count-time\u001b[39m","time":"2019-08-24T14:39:29.593Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-wordcount\u001b[39m","time":"2019-08-24T14:39:29.594Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2019-08-24T14:39:29.595Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2019-08-24T14:39:29.595Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2019-08-24T14:39:29.598Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/merge-configs.js\u001b[39m","time":"2019-08-24T14:39:29.604Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/center-quote.js\u001b[39m","time":"2019-08-24T14:39:29.604Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/merge.js\u001b[39m","time":"2019-08-24T14:39:29.606Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/exturl.js\u001b[39m","time":"2019-08-24T14:39:29.606Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/full-image.js\u001b[39m","time":"2019-08-24T14:39:29.607Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/label.js\u001b[39m","time":"2019-08-24T14:39:29.607Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/button.js\u001b[39m","time":"2019-08-24T14:39:29.607Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/group-pictures.js\u001b[39m","time":"2019-08-24T14:39:29.608Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/lazy-image.js\u001b[39m","time":"2019-08-24T14:39:29.608Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/note.js\u001b[39m","time":"2019-08-24T14:39:29.608Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/tabs.js\u001b[39m","time":"2019-08-24T14:39:29.608Z","v":0}
+{"name":"hexo","hostname":"zbmac-c02vx1nlh","pid":61405,"level":20,"msg":"Database saved","time":"2019-08-24T14:39:29.612Z","v":0}
